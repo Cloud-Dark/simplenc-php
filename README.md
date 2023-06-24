@@ -1,7 +1,5 @@
 # simplenc-php
-## How to Use
-include "./helper.php";
-$enctext = encrypt_decrypt("encrypt", "Yot plain text in here");
-echo $enctext;
-$dectext = encrypt_decrypt("decrypt", $enctext);
-echo $dectext;
+## How to Use?
+1. clone this repo
+2. run example.php
+3. done
